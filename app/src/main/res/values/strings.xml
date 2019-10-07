@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shopping Cost</string>
+
+
+    <string name="bazar_hisab_TV">Daily Shoping List</string>
+    <string name="item_TV">Item :</string>
+    <string name="poriman_TV">Quantity :</string>
+    <string name="price_TV">Price :</string>
+    <string name="seeAllList_TV">All List</string>
+    <string name="edit_btn">Edit</string>
+    <string name="save_btn">Save</string>
+    <string name="taka_text">Taka</string>
+    <string name="settings_title">Settings</string>
+    <string name="all_table_list_title">All cost list</string>
+    <string name="edit_list_Title">Today Shopping List</string>
+    <string name="total_text">Total =</string>
+    <string name="delete_alert_title">Delete ?</string>
+    <string name="delete_alert_message">Do you want to delete this ?</string>
+    <string name="delete_yes_btn">Yes</string>
+    <string name="delete_text">deleted</string>
+    <string name="cancel_text">cancel</string>
+    <string name="no_text">No</string>
+    <string name="enter_item_text">Enter item</string>
+    <string name="enter_quientity_text">Enter quantity</string>
+    <string name="enter_price_text">Enter Price</string>
+    <string name="saved_text">saved</string>
+    <string name="failed_text">failed</string>
+    <string name="update_list_title">Update List</string>
+    <string name="updated_text">updated</string>
+    <string name="update_failed_text">update failed</string>
+    <string name="item_hint">item</string>
+    <string name="quantity_hint">quantity</string>
+    <string name="price_hint">price</string>
+
+
+</resources>
